@@ -14,6 +14,8 @@ public class ProductController {
     @Value("${emp.name}")
     private String name;
 
+    private String jiushu="JIUSHU";
+
     @Autowired
     private ProductService productService;
 
