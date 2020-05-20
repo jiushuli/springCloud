@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sob-android-mini-web-1.0.03">
+    <CLASSES>
+      <root url="jar://D:/Download/SOBAndroidMiniWeb-master/sob-android-mini-web-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://D:/Download/SOBAndroidMiniWeb-master/sob-android-mini-web-1.0.0.jar!/" />
+    </excluded>
+  </library>
+</component>
